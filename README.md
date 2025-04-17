@@ -18,5 +18,13 @@ Objectives
 - Build a Decision Tree model to predict the presence or absence of kidney disease.
 - Evaluate the model's performance using metrics like accuracy, precision, recall, and F1-score.
 
+Dependencies:-
 
+-Python 3.x
+-Pandas
+-Scikit-learn
+-Matplotlib
+-Seaborn
+-Numpy
+-Jupyter Notebook (optional)
 
